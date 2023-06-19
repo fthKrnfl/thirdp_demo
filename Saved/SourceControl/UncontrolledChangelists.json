@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/StarterContent/Shapes/Shape_Cone.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Locomotion/Idle_Break.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Locomotion/Walk_Stop.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/crouched/Crouh_Walk.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/crouched/Crouch_Idle.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/ABP_MainCharacter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Lean/MM_Run_Fwd_Lean_L.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Lean/MM_Run_Fwd_Lean_R.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_red_1.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_red_2.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Vaulting/VaultOver.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GW/X5BCOH6ZVSKTKDPAYP11YK.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Crouch_Idle.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Crouh_Walk.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Idle_Break.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/demo_third_person/Content/Characters/RPG_Character/Walk_Stop.uasset"
+			]
+		}
+	]
+}
